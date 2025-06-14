@@ -13,8 +13,8 @@
             "program": "cmd/github-mcp-server/main.go",
             "args": ["stdio"],
             "console": "integratedTerminal",
-        },
-        {
+        },Launch stdioserver
+        {workspaceFolder
             "name": "Launch stdio server (read-only)",
             "type": "go",
             "request": "launch",
